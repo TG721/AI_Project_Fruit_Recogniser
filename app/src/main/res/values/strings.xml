@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIProject_FruitRecogniser</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="insert_from_gallery">Insert from Gallery</string>
+</resources>
